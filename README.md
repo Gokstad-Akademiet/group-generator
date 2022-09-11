@@ -15,3 +15,7 @@ Når knappen er trykket på vil den sortere i deltakerene i tilfeldige grupper v
 ## Problemer?
 
 Legg igjen en issue på github.
+
+## Laget av
+
+Egil Skjelbred
