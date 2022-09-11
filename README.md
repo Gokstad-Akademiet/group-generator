@@ -8,13 +8,21 @@ Applikasjonen er veldig enkel, her fyller du inn hvilke personer som skal deles 
 
 Når knappen er trykket på vil den sortere i deltakerene i tilfeldige grupper via random-funksjonen til JavaScript.
 
-Applikasjonen lagrer ingen informasjon og benytter seg kun av ett midlertidig Array, ønsker du å resette listen er det bare å oppdatere siden
+Applikasjonen lagrer ingen informasjon og benytter seg kun av ett midlertidig Array, ønsker du å resette listen er det bare å oppdatere siden.
+
+## Hvordan er den laget
+
+Applikasjonen er skrevet i HTML og Javascript, det er også brukt bootstrap for styling. CSS vil bli lagt til etterhvert.
 
 ## Todo's
 
 - [ ] Fortsette arbeid på responiviteten av siden, ved lange navn eller mange deltakere pr gruppe vil det være overlapping av tekst.
 
 - [ ] Legge til "fjern deltaker" funksjon pr deltaker
+
+- [ ] Darkmode
+
+- [ ] Legge til CSS
 
 ## Problemer?
 
