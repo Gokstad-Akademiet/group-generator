@@ -12,9 +12,9 @@ Applikasjonen lagrer ingen informasjon og benytter seg kun av ett midlertidig Ar
 
 ## Todo's
 
-[] Fortsette arbeid på responiviteten av siden, ved lange navn eller mange deltakere pr gruppe vil det være overlapping av tekst.
+- [ ] Fortsette arbeid på responiviteten av siden, ved lange navn eller mange deltakere pr gruppe vil det være overlapping av tekst.
 
-[] Legge til "fjern deltaker" funksjon pr deltaker
+- [ ] Legge til "fjern deltaker" funksjon pr deltaker
 
 ## Problemer?
 
